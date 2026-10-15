@@ -2,7 +2,7 @@
 This Campus Area Network is About designing a topology of a network that is a LAN for a college in which various computer of deferent departments are setup so that they can interact and communicate with  each other by Interchanging data. To Design a  networking scenario for a college which connect various departments to each other's .
 # select the any one PC1.
 
-# And firstly to select the System Node(pc device) and click on it .then select the Desktop opetion then there is open the several opetions in the desktop opetion.
+# And firstly to select the System Node(pc device) and click on it .then select the Desktop option then there is open the several options in the desktop option.
 # Then select the Prompt opetion.
 # After selecting the prompt command option there is open a command panel
 
